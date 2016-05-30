@@ -1,3 +1,3 @@
 ﻿{
-"Android":{"version":"1.0.4","description":"<B><font color='red'>App应用名称已更改为【网格化管控】</font></B><br><br><B>更新描述</B>:<br>1.新增巡视安排及我的任务模块<br>2.新增消息提示音<br>3.修复轨迹时间轴显示不完整<br>","download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"}
+"Android":{"version":"1.0.5","description":"<B><font color='red'>App应用名称已更改为【网格化管控】</font></B><br><br><B>更新描述</B>:<br>1.修复巡视安排查询bug<br>","download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"}
 }
