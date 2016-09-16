@@ -4,9 +4,9 @@
 		"description":"<B>更新描述 v1.2.1</B>:<br>1.增加通讯录层级全选<br>2.新增状态栏通知<br>3.修复缺陷列表内容过多无法显示状态问题<br>4.其他优化等",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
-	"IOS":{
+	"iOS":{
 		"version":"1.0.0",
-		"description":"<B>更新描述 v1.2.1</B>:<br>1.增加通讯录层级全选<br>2.新增状态栏通知<br>3.修复缺陷列表内容过多无法显示状态问题<br>4.其他优化等",
+		"description":"<B>更新描述</B>:<br>其他更新",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	}
 }
