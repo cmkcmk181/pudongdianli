@@ -1,12 +1,12 @@
 ﻿{
 	"Android":{
-		"version":"2.0.0",
-		"description":"<B>更新描述 v2.0.0</B>:<br>网格化管控2.0版正式上线",
+		"version":"2.0.1",
+		"description":"<B>更新描述 v2.0.1</B>:<br>1.修复缺陷上传状态Bug<br>",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.0.1",
-		"description":"<B>更新描述</B>:<br>修复缺陷发布过滤按钮不显示问题",
+		"version":"2.0.2",
+		"description":"<B>更新描述 v2.0.2</B>:<br>修复巡视轨迹滑动卡顿问题",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
