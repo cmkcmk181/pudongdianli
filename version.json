@@ -5,8 +5,8 @@
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.0.0",
-		"description":"<B>更新描述</B>:<br>其他更新",
+		"version":"2.0.1",
+		"description":"<B>更新描述</B>:<br>修复缺陷发布过滤按钮不显示问题",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
