@@ -6,7 +6,7 @@
 	},
 	"iOS":{
 		"version":"2.0.2",
-		"description":"<B>更新描述 v2.0.2</B>:<br>修复巡视轨迹滑动卡顿问题",
+		"description":"<B>更新描述 v2.0.2</B>:<br>1.修复巡视轨迹滑动卡顿问题<br>2.修复照片上传预览时照片变形问题",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
