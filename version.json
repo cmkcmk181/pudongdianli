@@ -5,8 +5,8 @@
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.0.3",
-		"description":"<B>更新描述 v2.0.3</B>:<br>1.缺陷发布新增退回功能<br>2.照片上传允许选择多张<br>",
+		"version":"2.1.0",
+		"description":"<B>更新描述 v2.1.0</B>:<br>1.缺陷发布新增退回功能<br>2.照片上传允许选择多张<br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
