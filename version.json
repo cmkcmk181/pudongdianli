@@ -1,12 +1,12 @@
 ﻿{
 	"Android":{
-		"version":"2.2.0",
-		"description":"<B>更新描述 v2.2.0</B>:<br>1.缺陷发布新增单号及线路名称<br>2.解决安卓6.0以上版本拍照问题<br>3.解决新添加专业地图图标不显示问题<br>",
+		"version":"2.2.1",
+		"description":"<B>更新描述 v2.2.1</B>:<br>1.修复部份手机调用相机不能返回图像的问题<br>",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.2.0",
-		"description":"<B>更新描述 v2.2.0</B>:<br>1.缺陷发布新增单号及线路名称<br>2.解决新添加专业地图图标不显示问题<br>",
+		"version":"2.2.1",
+		"description":"<B>更新描述 v2.2.1</B>:<br>1.修复部份手机调用相机不能返回图像的问题<br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
