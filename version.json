@@ -1,12 +1,12 @@
 ﻿{
 	"Android":{
-		"version":"2.2.1",
-		"description":"<B>更新描述 v2.2.1</B>:<br>1.修复部份手机调用相机不能返回图像的问题<br>",
+		"version":"2.2.2",
+		"description":"<B>更新描述 v2.2.2</B>:<br>1.添加GPS开启检测，提高定位精准度<br>2.其他功能修复<br>",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.2.1",
-		"description":"<B>更新描述 v2.2.1</B>:<br>1.修复部份手机调用相机不能返回图像的问题<br>",
+		"version":"2.2.2",
+		"description":"<B>更新描述 v2.2.2</B>:<br><br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
