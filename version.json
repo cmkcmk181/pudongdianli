@@ -1,12 +1,12 @@
 ﻿{
 	"Android":{
-		"version":"2.2.2",
-		"description":"<B>更新描述 v2.2.2</B>:<br>1.添加GPS开启检测，提高定位精准度<br>2.其他功能修复<br>",
+		"version":"2.2.3",
+		"description":"<B>更新描述 v2.2.3</B>:<br>1.优化在线地图查询速度<br>2.增加缺陷发布后自动返回<br>",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.2.2",
-		"description":"<B>更新描述 v2.2.2</B>:<br><br>",
+		"version":"2.2.3",
+		"description":"<B>更新描述 v2.2.3</B>:<br>1.优化在线地图查询速度<br>2.增加缺陷发布后自动返回<br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
