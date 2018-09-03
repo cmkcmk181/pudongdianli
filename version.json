@@ -2,7 +2,7 @@
 	"Android":{
 		"version":"2.2.5",
 		"description":"<B>更新描述 v2.2.5</B>:<br>1.修复部分手机不能扫描二维码问题<br>2.修复部分手机拍照问题<br>",
-		"download_url":"http://pddl.yungcloud.cn/download/pudongdianli.apk"
+		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
 	"iOS":{
 		"version":"2.2.5",
