@@ -6,7 +6,7 @@
 	},
 	"iOS":{
 		"version":"2.2.7",
-		"description":"<B>更新描述 v2.2.7</B>:<br><br>",
+		"description":"<B>更新描述 v2.2.7</B>:<br> <br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
