@@ -1,6 +1,6 @@
 ﻿{
 	"Android":{
-		"version":"2.2.5", 
+		"version":"2.2.6", 
 		"description":"<B>更新描述 v2.2.6</B>:<br>1.修复管理员通讯录加载不全<br>2.增加地图右上角区间过滤<br>",
 		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
 	},
