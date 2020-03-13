@@ -2,7 +2,7 @@
 	"Android":{
 		"version":"2.2.7",
 		"description":"<B>更新描述 v2.2.7</B>:<br>1.修复部分手机签到时无法获取GPS定位的问题<br>",
-		"download_url":"https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/pudongdianli.apk"
+		"download_url":"https://pdgd-wanggehua.oss-cn-shanghai.aliyuncs.com/old_app/pudongdianli.apk"
 	},
 	"iOS":{
 		"version":"2.2.7",
