@@ -5,8 +5,8 @@
 		"download_url":"https://pdgd-wanggehua.oss-cn-shanghai.aliyuncs.com/old_app/pudongdianli.apk"
 	},
 	"iOS":{
-		"version":"2.2.7",
-		"description":"<B>更新描述 v2.2.7</B>:<br>1.修复管理员通讯录加载不全<br>2.增加地图右上角区间过滤 <br>",
+		"version":"2.2.8",
+		"description":"<B>更新描述 v2.2.8</B>:<br>1.结单权限修改 <br>",
 		"download_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/cmkcmk181/pudongdianli/master/ios.plist"
 	}
 }
